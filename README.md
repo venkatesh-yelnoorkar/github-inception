@@ -1,2 +1,3 @@
 # github-inception
-my first git hub repo.
+hello this is my first git hub repo.
+
